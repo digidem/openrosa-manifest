@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://openrosa.org/xforms/xformsManifest">
+  <mediaFile>
+    <filename>si.png</filename>
+    <downloadUrl>https://raw.githubusercontent.com/digidem-test/xform-test/master/forms/monitoring/si.png</downloadUrl>
+    <hash>md5:673ebeffe844cff444827d47cfe32942</hash>
+  </mediaFile>
+  <mediaFile>
+    <filename>no.png</filename>
+    <downloadUrl>https://raw.githubusercontent.com/digidem-test/xform-test/master/forms/monitoring/no.png</downloadUrl>
+    <hash>md5:192ab07e704b6e15a7c22a0bbc254275</hash>
+  </mediaFile>
+</manifest>

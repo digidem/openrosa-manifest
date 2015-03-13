@@ -1,0 +1,40 @@
+{
+  "name": "openrosa-manifest",
+  "version": "0.0.1",
+  "description": "Create a valid OpenRosa manifest document see https://bitbucket.org/javarosa/javarosa/wiki/FormListAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js | tap-spec"
+  },
+  "keywords": [
+    "xform",
+    "openrosa",
+    "manifest"
+  ],
+  "author": "Gregor MacLennan",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "request": "^2.53.0",
+    "validator": "^3.33.0",
+    "xmlbuilder": "^2.6.2",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "dox": "^0.6.1",
+    "doxme": "^1.8.2",
+    "tap-spec": "^2.2.2",
+    "tape": "^3.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digidem/openrosa-manifest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digidem/openrosa-manifest/issues"
+  },
+  "homepage": "https://github.com/digidem/openrosa-manifest"
+}
